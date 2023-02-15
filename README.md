@@ -15,5 +15,5 @@ The project has 5 steps:
 It's worth bringing the backpropation algorithm sudoku:
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/93929227/218959572-58b14551-180d-49e8-8ac7-c1780a213ee1.png" width="50%" height="50%"/>
+<img src = "https://user-images.githubusercontent.com/93929227/218959572-58b14551-180d-49e8-8ac7-c1780a213ee1.png" width="60%" height="60%"/>
 <p/>
